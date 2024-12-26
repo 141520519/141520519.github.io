@@ -24,9 +24,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Sour Gummy",
-        body: "Sour Gummy",
-        code: "Sour Gummy",
+        header: "Tajawal",
+        body: "Tajawal",
+        code: "Tajawal",
       },
       colors: {
         lightMode: {
