@@ -1,8 +1,13 @@
 @use "./base.scss";
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@100;200;300;400;500;600;700&display=swap');
 
 // put your custom CSS here!
 
 .rtl-class,
 .rtl-class * {
     direction: rtl;
+}
+
+body.rtl, .rtl h1, .rtl h2, .rtl h3, .rtl h4, .rtl h5, .rtl h6, .rtl .products-title, .header-main-menu.et_element-top-level .menu>li>a {
+    font-family:  IBM Plex Sans Arabic !important;
 }
