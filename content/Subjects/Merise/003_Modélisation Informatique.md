@@ -35,7 +35,7 @@ Pour être traitées de manière informatisée, les données doivent être décr
 
 Le dictionnaire des données est un document qui permet de recenser, de classer et de trier toutes les informations (les données) collectées lors des entretiens ou de l’étude des documents.
 
-| Nom de la donnée | Format  | Longueur | Type         | Élémentaire / Calculé | Règle de calcul | Règle de gestion | Document |
-|-------------------|---------|----------|--------------|-----------------------|-----------------|------------------|----------|
-|                   |         |          | Élémentaire  |                       |                 |                  |          |
-|                   |         |          | Calculé      |                       |                 |                  |          |
+| Nom de la donnée | Format | Longueur | Type        | //      | Règle de calcul | Règle de gestion | Document |
+| ---------------- | ------ | -------- | ----------- | ------- | --------------- | ---------------- | -------- |
+|                  |        |          | Élémentaire | Calculé |                 |                  |          |
+

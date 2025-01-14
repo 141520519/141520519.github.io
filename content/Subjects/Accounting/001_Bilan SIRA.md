@@ -10,6 +10,7 @@ subject: Accounting
 professor: Walaa Sultan
 last_modified: 2024-12-23
 ---
+
 | **Actif**                                             | **Passif**                     |
 | ----------------------------------------------------- | ------------------------------ |
 | - Actif immobilisé                                    | - Capitaux permanents          |
