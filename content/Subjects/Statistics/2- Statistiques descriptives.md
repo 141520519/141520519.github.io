@@ -65,13 +65,13 @@ $$
 \bar{X} = \frac{\sum n_i \times x_i}{N} = \frac{1464}{130} = 11,25
 $$
 
-## 7) Trouver le mode par calcul et graphiquement
+## 7) Trouver le médiane par calcul et graphiquement
 
-### Mode graphiquement :
+### Médian graphiquement :
 Histogramme des effectifs:
 ![[Statistics-IMG-0010.jpg]]
 
-### Mode par calcul :
+### Médiane par calcul :
 Le plus grand effectif est 39, donc le mode se trouve dans l'intervalle [8 - 12[ :
 $$
 M_o = l_i + a_i \left( \frac{n_i - n_{i-1}}{n_i - n_{i-1} + n_i - n_{i+1}} \right)
@@ -81,13 +81,13 @@ M_o = 8 + 4 \left( \frac{39 - 26}{39 - 26 + 39 - 22} \right)
 = 8 + 4 \times \frac{13}{30} = 9.73
 $$
 
-## 8) Trouver la médiane par calcul et graphiquement
+## 8) Trouver la mode par calcul et graphiquement
 
-### Médiane graphiquement :
+### Mode graphiquement :
 Fonction de réparation :
 ![[Statistics-IMG-0011.jpg]]
 
-### Médiane par calcul :
+### Mode par calcul :
 $$
 \frac{N}{2} = \frac{130}{2} = 65 \quad \Rightarrow \quad M_e \in [8 - 12[
 $$
