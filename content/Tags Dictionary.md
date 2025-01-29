@@ -23,6 +23,9 @@ tags:
   - statistics
   - lecture
   - table
+  - maths
+  - book
+  - latex
 ---
 ## Subjects tags :
 
@@ -36,6 +39,7 @@ tags:
 - #merise : Merise - طرائق التحليل
 - #sql : Sql - قواعد المعطيات & قواعد المعطيات (TP)
 - #statistics : Statistics - الإحصاء
+- #maths : Mathematics - رياضيات
 - #vb :  Vb.net - برمجة (TP)
 - #economics : الاقتصاد
 - #law : القانون
