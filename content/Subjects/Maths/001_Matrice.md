@@ -159,17 +159,17 @@ $$
 Il faut le nombre de colonne de la premier matrice egal au nombre de ligne de la 2me matrice
 $$
 {H}_{(n;m)} \times {B}_{(m;p)} = C_{(n;p)}
-\quad \hat{D}_{\left(\frac{1}{7}2\right)} = 
+\quad {D}_{\left(3;2\right)} = 
 $$
 $$
 C_{3;3}=\begin{pmatrix}
-4 & 3 & 0 \\
--1 & -1 & -3 \\
-3 & 0 & 1
+1 & 3 & 0 \\
+-1 & -1 & -2 \\
+3 & 0 & 4
 \end{pmatrix}
 $$
 $$
-D_{3;3}= \begin{pmatrix}
+D_{3;2}= \begin{pmatrix}
 -1 & -2 \\
 -1 & -3 \\
 -1 & -3
